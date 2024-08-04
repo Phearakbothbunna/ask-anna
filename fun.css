@@ -1,0 +1,35 @@
+body {
+    background: pink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    margin: 0;
+}
+
+.app_title {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.heading1 {
+    color: red;
+    font-size: 80px;
+}
+
+button {
+    opacity: 1;
+    width: 100px;
+    
+}
+
+.image1 {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.image2 {
+    height: 40vh;
+    /* margin-top: 200px; */
+}
